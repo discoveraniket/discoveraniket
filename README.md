@@ -5,8 +5,8 @@ I'm a graduate in **Physics**, a self-taught Python developer, and an enthusiast
 ## 💻 What I Do
 
 - 🐍 Build automation scripts using **Python + Playwright/Selenium**
-- 🤖 Integrate **AI models** (like Gemini API) into real-world tools
-- 📚 Create educational apps — like my [Macbeth Learning App](https://github.com/discoveraniket/macbeth-learning-app)
+- 🤖 Integrate **AI models** (like Gemini API) into real-world tools i.e. [ration_card_processor](https://github.com/discoveraniket/ration_card_processor)
+- 📚 Create educational apps — like my [Macbeth Learning App](https://github.com/discoveraniket/macbeth-learning-app), [CogniTrain](https://github.com/discoveraniket/CogniTrain)
 - 📈 Invest in long-term wealth creation and believe in using tech to accelerate growth
 
 ## 🧠 Currently Learning
