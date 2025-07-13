@@ -1,34 +1,68 @@
-# 👋 Hi, I’m Aniket Sarkar
+# Hi there, I'm Aniket Sarkar 👋
 
-I'm a graduate in **Physics**, a self-taught Python developer, and an enthusiast in automation and AI integration. I currently work full-time in the government sector in a non-technical role — but I’ve been writing code since 2010, and I never stopped.
+A self-taught Python Developer and AI enthusiast with a background in Physics. I leverage my coding expertise, honed since 2010, to build automation tools and integrate AI models, solving real-world problems. My passion for technology drives continuous learning and innovation, even alongside my full-time non-technical role in the government sector.
 
-## 💻 What I Do
-
-- 🐍 Build automation scripts using **Python + Playwright/Selenium**
-- 🤖 Integrate **AI models** (like Gemini API) into real-world tools i.e. [ration_card_processor](https://github.com/discoveraniket/ration_card_processor)
-- 📚 Create educational apps — like my [Macbeth Learning App](https://github.com/discoveraniket/macbeth-learning-app), [CogniTrain](https://github.com/discoveraniket/CogniTrain)
-- 📈 Invest in long-term wealth creation and believe in using tech to accelerate growth
-
-## 🧠 Currently Learning
-- API integrations (REST, JSON)
-- JavaScript & frontend basics
-- Building portfolio-ready projects
-
-## 🔍 Looking For
-- Freelance automation & AI integration projects
-- Collaborators interested in building small, real-world tools
-- Opportunities to turn code into income
-
-## 🛠 Tech Stack
-- Python • Playwright • Selenium • Streamlit • Flask • Gemini API
-- HTML/CSS (Basic) • JavaScript (Learning)
-- Git & GitHub
-
-## 📫 Contact
-- Email: discoveraniket@gmail.com
-- GitHub: [@discoveraniket](https://github.com/discoveraniket)
-- Telegram: [@discoverAniket](https://t.me/discoverAniket)
+<p align="left">
+  <a href="https://github.com/discoveraniket" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:discoveraniket@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://t.me/discoverAniket" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
 ---
 
-> *“Consistency is more important than intensity. I show up every day and let the code do the talking.”*
+## 🛠️ My Tech Stack
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Gemini-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+</p>
+
+---
+
+## 🚀 My Projects
+Here are a few things I've built:
+
+- **[ration_card_processor](https://github.com/discoveraniket/ration_card_processor)**: A real-world automation tool for processing ration cards, demonstrating my expertise in OCR, document processing, and practical application development.
+- **[Macbeth Learning App](https://github.com/discoveraniket/macbeth-learning-app)**: An educational application designed to enhance the learning and understanding of Shakespeare's Macbeth, initially developed to support an English professor in coaching students.
+- **[CogniTrain](https://github.com/discoveraniket/CogniTrain)**: An application designed to help students prepare for MCQ-based competitive exams, with a live version available [here](https://examprep.pythonanywhere.com/).
+
+### 💼 Commercial & Confidential Projects
+I also have experience developing and deploying commercial, profit-generating web automation solutions. Due to their proprietary nature, these projects are not publicly accessible. However, I can discuss the technical challenges, solutions implemented, and business impact in a private conversation.
+
+---
+
+## 🌱 My Goals & Interests
+- **Currently Learning:** Diving deeper into JavaScript and frontend frameworks to build more robust, full-stack applications.
+- **Collaboration:** I'm open to collaborating on small-scale, impactful tools and am actively seeking freelance projects in automation and AI integration.
+- **Investing:** I'm passionate about using technology to accelerate long-term wealth creation.
+
+---
+
+## 💡 My Development Philosophy
+
+I'm currently rigorously exploring "vibe coding" techniques, particularly through tools like `gemini-cli`. My perspective is that these are not shortcuts to avoid fundamental understanding, but rather powerful accelerators—much like how power tools enable a craftsman to build more intricate and larger structures than would be feasible with only hand tools. This approach allows me to tackle more complex problems and deliver sophisticated solutions in significantly less time, pushing the boundaries of what's possible.
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=discoveraniket&show_icons=true&theme=radical" alt="Aniket's GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discoveraniket&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  Feel free to connect with me for collaborations or inquiries!
+</p>
+
+<p align="center">
+  <em>“Consistency is more important than intensity. I show up every day and let the code do the talking.”</em>
+</p>
