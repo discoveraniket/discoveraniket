@@ -15,6 +15,7 @@ A self-taught Python Developer and AI enthusiast with a background in Physics. I
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Google_Gemini-8E44AD?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/></a>
@@ -34,7 +35,15 @@ Here are a few things I've built:
 - **[CogniTrain](https://github.com/discoveraniket/CogniTrain)**: An application designed to help students prepare for MCQ-based competitive exams, with a live version available [here](https://examprep.pythonanywhere.com/).
 
 ### 💼 Commercial & Confidential Projects
-I also have experience developing and deploying commercial, profit-generating web automation solutions. Due to their proprietary nature, these projects are not publicly accessible. However, I can discuss the technical challenges, solutions implemented, and business impact in a private conversation.
+A significant portion of my work involves developing proprietary, monetizable software solutions for clients. While the source code is confidential, these projects showcase my ability to tackle complex, real-world business problems.
+
+- **[AutoWeb (Desktop Automation Tool)](https://github.com/discoveraniket/autoWeb?tab=readme-ov-file#autoweb-excel-to-web-portal-automation)**: A prime example is **AutoWeb**, a desktop application built to automate the tedious process of transferring data from Excel to a web portal. This tool transformed a manual, error-prone task into an efficient, unattended workflow, creating a recurring revenue stream.
+  - **Key Achievements:**
+    - Engineered a responsive GUI using a multi-threaded architecture to prevent UI freezes during heavy automation tasks.
+    - Implemented resilient web automation with Playwright, incorporating anti-bot evasion and dynamic content handling.
+    - Developed a secure, offline, pay-per-use licensing system using encryption to manage client quotas.
+
+I can discuss the architecture, technical challenges, and business impact of such projects in more detail privately.
 
 ---
 
