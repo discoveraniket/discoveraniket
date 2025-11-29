@@ -47,6 +47,16 @@ I can discuss the architecture, technical challenges, and business impact of suc
 
 ---
 
+## 🎓 Certification
+
+- **HarvardX CS50P: CS50’s Introduction to Programming with Python**
+  
+  <a href="https://cs50.harvard.edu/certificates/dfc0c766-f3fa-4c44-906b-9c6900f12b34" target="_blank">
+    <img alt="CS50P View Certificate" src="https://img.shields.io/badge/CS50P-Certificate-blue?style=for-the-badge&logo=edX&logoColor=white"/>
+  </a>
+
+---
+
 ## 🌱 My Goals & Interests
 - **Currently Learning:** Diving deeper into JavaScript and frontend frameworks to build more robust, full-stack applications.
 - **Collaboration:** I'm open to collaborating on small-scale, impactful tools and am actively seeking freelance projects in automation and AI integration.
