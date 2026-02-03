@@ -57,10 +57,11 @@ I can discuss the architecture, technical challenges, and business impact of suc
 
 ---
 
-## 🌱 My Goals & Interests
-- **Currently Learning:** Diving deeper into JavaScript and frontend frameworks to build more robust, full-stack applications.
-- **Collaboration:** I'm open to collaborating on small-scale, impactful tools and am actively seeking freelance projects in automation and AI integration.
-- **Investing:** I'm passionate about using technology to accelerate long-term wealth creation.
+### 🌱 My Goals & Interests
+
+* **Currently Learning:** Transitioning to **Cloud Engineering**, specifically focusing on **Microsoft Azure (AZ-104)** and automating cloud infrastructure using the Azure SDK and Python.
+* **Collaboration:** I'm open to collaborating on open-source tools related to **AI Agents** and **Cloud Automation**.
+* **Investing:** I'm passionate about using technology to accelerate long-term wealth creation.
 
 ---
 
